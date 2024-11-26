@@ -41,6 +41,7 @@ Linea abstracts away the complexity of this technical architecture to allow deve
 Contributions of any kind are welcome!
 
 1. [Create an issue](https://github.com/Consensys/linea-constraints/issues).
+2. 
 > If the proposed update is non-trivial, also tag us for discussion.
 2. Submit the update as a pull request from your [fork of this repo](https://github.com/Consensys/linea-constraints/fork), and tag us for review. 
 > Include the issue number in the pull request description and (optionally) in the branch name.
